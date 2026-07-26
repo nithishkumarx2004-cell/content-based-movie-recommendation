@@ -310,8 +310,8 @@ This project is licensed under the **MIT License**.
 
 **Skills:** Python • SQL • Power BI • Machine Learning
 
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR-PROFILE
+- GitHub: https://github.com/nithishkumarx2004-cell
+
 
 > Replace `YOUR-USERNAME` and `YOUR-PROFILE` with your actual links before publishing.
 
