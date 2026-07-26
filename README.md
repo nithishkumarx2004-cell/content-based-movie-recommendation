@@ -95,7 +95,6 @@ Dataset Statistics
 | Movies | 62,423 |
 | Ratings | 25,000,095 |
 
-> Note: user count isn't computed in the notebook yet. Add `df_rating['userId'].nunique()` and update this table with the real figure before publishing.
 
 ---
 
@@ -182,7 +181,6 @@ Ruslan and Ludmila (1972)
 Santa Claus: The Movie (1985)
 ```
 
-> Add a screenshot or exported plot image here once available (see Project Structure note below).
 
 ---
 
@@ -194,7 +192,6 @@ Santa Claus: The Movie (1985)
 - Generated Top-10 similar movie recommendations based on genre overlap (TF-IDF + cosine distance).
 - Visualized rating patterns, genres, and release trends through EDA.
 
-> No formal accuracy/relevance metric (e.g. genre-overlap score, precision@k) has been computed yet. Add one before claiming recommendation quality.
 
 ---
 
@@ -223,7 +220,7 @@ Movie-Recommendation-System/
 └── LICENSE
 ```
 
-> The `images/` folder above is a template. Export your actual matplotlib/seaborn plots as PNGs into this folder (e.g. `plt.savefig("images/rating_distribution.png")`) and embed them below with `![Rating Distribution](images/rating_distribution.png)` — don't reference image files that don't exist in the repo.
+
 
 ---
 
@@ -233,7 +230,7 @@ Movie-Recommendation-System/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Movie-Recommendation-System.git
+git clone https://github.com/nithishkumarx2004/Movie-Recommendation-System.git
 ```
 
 Navigate to the project folder
@@ -254,7 +251,7 @@ Launch Jupyter Notebook
 jupyter notebook
 ```
 
-> Replace `YOUR-USERNAME` above with your actual GitHub username before publishing.
+
 
 ---
 
@@ -313,10 +310,8 @@ This project is licensed under the **MIT License**.
 - GitHub: https://github.com/nithishkumarx2004-cell
 
 
-> Replace `YOUR-USERNAME` and `YOUR-PROFILE` with your actual links before publishing.
+
 
 ---
 
-## ⭐ Support
 
-If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
