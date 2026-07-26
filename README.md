@@ -188,7 +188,7 @@ Santa Claus: The Movie (1985)
 # 📈 Results
 
 - Built a Content-Based Movie Recommendation System using genre similarity.
-- Processed over **62,000 movies** and **25 million ratings**.
+- Processed over **62,000 movies** and **1 lakh ratings**.
 - Generated Top-10 similar movie recommendations based on genre overlap (TF-IDF + cosine distance).
 - Visualized rating patterns, genres, and release trends through EDA.
 
