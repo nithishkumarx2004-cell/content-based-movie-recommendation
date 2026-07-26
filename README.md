@@ -93,7 +93,7 @@ Dataset Statistics
 | Item | Count |
 |------|------:|
 | Movies | 62,423 |
-| Ratings | 25,000,095 |
+| Ratings | 105339|
 
 
 ---
